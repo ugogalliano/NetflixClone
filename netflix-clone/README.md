@@ -5,3 +5,6 @@ I have built this app using firebase as db and for the style tailwind css .
 I hope this app is useful for anyone who is approaching this world.
 For any clarification my e-mail is:
 ugo.galliano1997@hotmail.com
+
+
+This project is inspired by the video of Code Commerce : https://www.youtube.com/watch?v=ATz8wg6sg30
